@@ -10,7 +10,7 @@
     <br>
     <a href="visited"> Places I've Already Been To </a>
     <br>
-    <p> ✨ Powered by Laravel
+    <p> ✨ Powered by Laravel TEST CLASE
   </body>
 </html>
 
